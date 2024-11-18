@@ -1,0 +1,5 @@
+.image-item,
+.card,
+ i {
+  cursor: pointer;
+}

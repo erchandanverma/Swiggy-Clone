@@ -1,0 +1,18 @@
+.image-container {
+    display: flex;
+    overflow:hidden;
+    white-space: nowrap; 
+    gap: 10px; 
+  }
+  
+  .image-item {
+    flex-shrink: 0; 
+  }
+  
+  .image-item img {
+    height: 190px; 
+    width: auto; 
+    object-fit: cover; 
+    border-radius: 8px; 
+  }
+ 
