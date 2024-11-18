@@ -1,82 +1,82 @@
 [
   {
-    "image": "src/assets/image/Pizza.avif",
+    "image": "/assets/image/pizza.avif",
     "id": "e8c54a5b-0b31-4628-8a16-9b6a86229db3"
   },
   {
-    "image": "src/assets/image/pasta.avif",
+    "image": "/assets/image/pasta.avif",
     "id": "abd983a2-6599-4c2e-ac9b-47c08ab4996d"
   },
   {
-    "image": "src/assets/image/North Indian.avif",
+    "image": "/assets/image/North Indian.avif",
     "id": "091cd696-88da-4fdf-b37b-6b8bc74b0273"
   },
   {
-    "image": "src/assets/image/Rasmalai.avif",
+    "image": "/assets/image/Rasmalai.avif",
     "id": "39a0b039-e61d-4e3b-9a8e-150467d8b8aa"
   },
   {
-    "image": "src/assets/image/Gulab jamun.avif",
+    "image": "/assets/image/Gulab jamun.avif",
     "id": "77155a5c-d06b-4a69-8f7d-00c0b2f5f75f"
   },
   {
-    "image": "src/assets/image/cake.avif",
+    "image": "/assets/image/cake.avif",
     "id": "4b32b821-9e37-41e5-a48f-188e4837b3e3"
   },
   {
-    "image": "src/assets/image/Noodles.avif",
+    "image": "/assets/image/Noodles.avif",
     "id": "4e45f845-1dfe-4714-b481-f7cb42b477fc"
   },
   {
-    "image": "src/assets/image/Chinese.avif",
+    "image": "/assets/image/Chinese.avif",
     "id": "9b16be4c-a6bc-4296-b0a5-7839bb09e278"
   },
   {
-    "image": "src/assets/image/Kebabs.avif",
+    "image": "/assets/image/Kebabs.avif",
     "id": "2a29d173-8c19-4998-9846-9d199b7585e3"
   },
   {
-    "image": "src/assets/image/Pure Veg.avif",
+    "image": "/assets/image/Pure Veg.avif",
     "id": "27ed9b50-8a46-44d8-9eee-d382af4318c0"
   },
   {
-    "image": "src/assets/image/burger.avif",
+    "image": "/assets/image/burger.avif",
     "id": "b0316dce-baf5-451f-8aee-11d84c448587"
   },
   {
-    "image": "src/assets/image/Paratha.avif",
+    "image": "/assets/image/Paratha.avif",
     "id": "c6a64ed9-d9b5-4832-babd-1e5afde1e4da"
   },
   {
-    "image": "src/assets/image/Biryani.avif",
+    "image": "/assets/image/Biryani.avif",
     "id": "e8317839-3282-4d55-8a3b-3f586be4db0d"
   },
   {
-    "image": "src/assets/image/Rasgulla.avif",
+    "image": "/assets/image/Rasgulla.avif",
     "id": "915e8ce9-dfaf-4e6d-8af4-a627c5ee1c23"
   },
   {
-    "image": "src/assets/image/chole-bhature.avif",
+    "image": "/assets/image/chole-bhature.avif",
     "id": "16e670d7-a57c-49fa-8929-68c16442e54c"
   },
   {
-    "image": "src/assets/image/Pav Bhaji.avif",
+    "image": "/assets/image/Pav Bhaji.avif",
     "id": "959fc244-b665-4dba-8123-fb13753dd74a"
   },
   {
-    "image": "src/assets/image/Dosa.avif",
+    "image": "/assets/image/Dosa.avif",
     "id": "8f054450-b840-4f49-86af-34337707849a"
   },
   {
-    "image": "src/assets/image/Rolls1.avif",
+    "image": "/assets/image/Rolls1.avif",
     "id": "ae2c3d8e-7b00-41b4-bacf-833a9f1b429e"
   },
   {
-    "image": "src/assets/image/pastry.avif",
+    "image": "/assets/image/pastry.avif",
     "id": "5520df58-8884-42eb-b509-f2c31a37a3f9"
   },
   {
-    "image": "src/assets/image/Omelette.avif",
+    "image": "/assets/image/Omelette.avif",
     "id": "5f21cec0-4f58-44f7-8d85-e1addc3891f7"
   }
 ]
