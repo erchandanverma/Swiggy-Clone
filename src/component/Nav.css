@@ -1,83 +1,18 @@
-/* General Navbar Styling */
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 15px 30px;
-  font-family: 'Roboto', sans-serif;
-  white-space: nowrap; /* Prevent items from wrapping into rows */
-}
-
-.navbar-left {
-  display: flex;
-  align-items: center;
-}
-
 .navbar-logo {
-  width: 50px; /* Default logo size for larger screens */
-  height: auto;
-  margin-right: 10px;
+  height: 40px;
   border-radius: 10px;
+}
+
+.dropdown-indicator {
+  text-decoration: underline;
   cursor: pointer;
 }
 
-.navbar-right {
-  display: flex;
-}
-
-.navbar-links {
-  display: flex;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.nav-item {
-  margin: 0 15px;
-}
-
 .nav-link {
+  color: #000;
   text-decoration: none;
-  color: black; /* Default link color */
-  font-size: 16px; /* Default font size for larger screens */
-  display: flex;
-  align-items: center;
-  transition: color 0.3s ease;
 }
 
-.nav-link i {
-  margin-right: 8px;
-}
-
-.nav-link :hover {
-  color: #ff6f00; /* Orange hover effect */
-}
-
-/* Responsive Adjustments */
-@media screen and (max-width: 768px) {
-  .navbar-logo {
-    width: 40px; /* Reduce logo size for tablets */
-  }
-
-  .nav-link {
-    font-size: 14px; /* Reduce font size for tablets */
-  }
-
-  .nav-item {
-    margin: 0 10px; /* Slightly reduce spacing between items */
-  }
-}
-
-@media screen and (max-width: 480px) {
-  .navbar-logo {
-    width: 30px; /* Further reduce logo size for mobile devices */
-  }
-
-  .nav-link {
-    font-size: 12px; /* Further reduce font size for mobile devices */
-  }
-
-  .nav-item {
-    margin: 0 5px; /* Compact spacing for smaller screens */
-  }
+.nav-link:hover {
+  color: rgb(246, 146, 14);
 }
