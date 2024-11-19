@@ -53,7 +53,7 @@ useEffect(() => {
 
  return (
     <>
-    {/* <Nav/> */}
+    <Nav/>
     <div className="container">
     <div className="container d-flex flex-row align-items-center justify-content-between">
     <Heading heading={"What's on your mind?"}/>
