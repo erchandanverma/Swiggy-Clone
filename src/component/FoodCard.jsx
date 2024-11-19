@@ -41,7 +41,7 @@ const FoodCard = ({ items, rating, time, city }) => {
                   zIndex: 2,
                 }}
               >
-                60% OFF UPTO $120
+                60% OFF UPTO ₹120
               </div>
             </div>
             <div className="card-body">
